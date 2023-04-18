@@ -4,7 +4,7 @@ const Input = styled.input`
     outline: none;
     border-radius: 0px;
     border: 1px solid #E2E8F0;
-    border-radius: 24px;
+    border-radius: 23px;
     background-color: #F8FAFC;
     color: #666787;
     &:hover {
